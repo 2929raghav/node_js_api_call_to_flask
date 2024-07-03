@@ -1,0 +1,36 @@
+[
+    {
+        "source_sentence": "TCP/IP is the most commonly used protocol suite in computer networks",
+        "results": [
+            {
+                "target_sentence": "UDP is an alternative protocol to TCP for certain applications",
+                "similarity_score": 0.8659122586250305
+            },
+            {
+                "target_sentence": "Ethernet is a widely used technology for local area networks",
+                "similarity_score": 0.80039381980896
+            },
+            {
+                "target_sentence": "IPv6 is the successor to IPv4 and provides a larger address space",
+                "similarity_score": 0.7674692869186401
+            }
+        ]
+    },
+    {
+        "source_sentence": "Routing algorithms are used to determine the best path for data packets in a network",
+        "results": [
+            {
+                "target_sentence": "Distance vector routing is a type of routing algorithm",
+                "similarity_score": 0.845313310623169
+            },
+            {
+                "target_sentence": "Link-state routing is another type of routing algorithm",
+                "similarity_score": 0.8540388345718384
+            },
+            {
+                "target_sentence": "OSPF is a popular link-state routing protocol used in large networks",
+                "similarity_score": 0.8236491084098816
+            }
+        ]
+    }
+]
